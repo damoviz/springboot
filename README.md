@@ -15,6 +15,9 @@
 * Lombox (Nos permite eliminar codigo repetitivo "Getters","Setters")
 * Docker
 
+CRUD services:
+ - [ClienteResource](https://github.com/damoviz/springboot/blob/master/src/main/java/com/damoviz/springbootpeiky/resources/ClienteResource.java#L36)  
+
 ### IDE'S:
 * Spring tool suite
 * OmniDB
