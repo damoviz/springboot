@@ -20,6 +20,9 @@
  - [ClienteResource](https://github.com/damoviz/springboot/blob/master/src/main/java/com/damoviz/springbootpeiky/resources/ClienteResource.java#L36)  
 - [CreditCardResource](https://github.com/damoviz/springboot/blob/master/src/main/java/com/damoviz/springbootpeiky/resources/CreditCardResource.java#L35)  
 
+### Servicios Dockerizada:
+- docker push damoviz/spring-boot-peiky:tagname
+
 ### IDE'S:
 * Spring tool suite
 * OmniDB
